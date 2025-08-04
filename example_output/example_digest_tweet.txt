@@ -1,0 +1,1 @@
+Hugging Face PEFT 0.17 brings SHiRA & MiSS for more efficient fine-tuning, especially with LoRA for MoEs. Plus, DeepMind’s “Deep Think” in Gemini showcases reasoning *process* alongside results – a big step for explainability. Devs, check it out.
