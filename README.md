@@ -71,7 +71,7 @@ pip install markdown feedparser beautifulsoup4 python-dateutil requests
 Run once to test:
 
 ```bash
-python digest_generator.py
+python daily_digest_with_RSS.py
 ```
 
 Your output will appear in:
@@ -114,3 +114,4 @@ This script:
 * Fully customizable
 
 ---
+
